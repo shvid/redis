@@ -1,8 +1,8 @@
 # redis
-Redis Cluster in docker
+Redis Cluster start scripts
 
 
-Scripts to run redis cluster in Mac Book or other system with installed redis
+Scripts to run redis cluster in Mac Book or other system with pre-installed redis
 
 ```
 brew install redis
